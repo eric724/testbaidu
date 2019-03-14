@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5224" started-at="2019-03-14T01:12:29Z" finished-at="2019-03-14T01:12:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5224" started-at="2019-03-14T01:12:29Z" finished-at="2019-03-14T01:12:34Z">
+      <class name="phone.baidu">
+        <test-method status="PASS" signature="mobile()[pri:0, instance:phone.baidu@17ed40e0]" name="mobile" duration-ms="5210" started-at="2019-03-14T09:12:29Z" finished-at="2019-03-14T09:12:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobile -->
+      </class> <!-- phone.baidu -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
